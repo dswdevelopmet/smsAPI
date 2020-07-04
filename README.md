@@ -6,15 +6,15 @@ API para envio de mensajes de texto en Puerto Rico.
 URL: https://apex.oracle.com/pls/apex/smsapi/api/send? <br>
 Método: Get
 
-Importante!
+Importante! <br>
 <strong> La consulta no devuelve ningún valor. </strong> <br>
 <strong> Un solo número por consulta. </strong>
 
 
 Variables:<br>
-*num* ------------------- requerida------------------ número de teléfono del destinatario <br>
-*msg* ---------------- requerida------------------ mensaje de texto <br>
-*sub* ----------------- opcional ------------------- encabezado  
+<strong>*num*</strong> ------------------- requerida------------------ número de teléfono del destinatario <br>
+<strong>*msg*</strong> ---------------- requerida------------------ mensaje de texto <br>
+<strong>*sub*</strong> ----------------- opcional ------------------- encabezado  
 
 Ejemplo:  
 
