@@ -8,7 +8,7 @@ Método: Get
 
 Importante! <br>
 <strong> La consulta no devuelve ningún valor. </strong> <br>
-<strong> Un solo número por consulta. </strong>
+<strong> Un solo número por consulta. </strong> <br>
 <strong> Número telefónico sin espacios y solo numeros </strong>
 
 
