@@ -31,6 +31,14 @@ https://apex.oracle.com/pls/apex/smsapi/api/send?num=7871234567&msg=api&sub=test
 
 
 
+
+
+
+<img src="https://i.imgur.com/Lc4llVF.png">
+
+
+
+
 https://www.facebook.com/dswdev <br>
 developdsw@gmail.com
 
